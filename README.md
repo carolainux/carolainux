@@ -1,16 +1,22 @@
-## Hi there 👋
+Sobre mim:
+Sou iniciante na área de tecnologia e estou construindo minha jornada como desenvolvedora.
 
-<!--
-**carolainux/carolainux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+O que estou aprendendo:
+- Lógica de programação
+- Banco de Dados
+- Programação WEB
+- POO
+- Git e GitHub  
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Objetivos:
+- Me tornar desenvolvedora profissional  
+- Criar projetos próprios  
+- Conseguir minha primeira oportunidade na área  
+
+---
+
+ Em breve mais projetos por aqui!
