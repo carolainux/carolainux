@@ -1,3 +1,5 @@
+ Olá, eu sou a Carolaine!
+ 
 Sobre mim:
 Sou iniciante na área de tecnologia e estou construindo minha jornada como desenvolvedora.
 
