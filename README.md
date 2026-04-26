@@ -1,7 +1,7 @@
  Olá, eu sou a Carolaine!
  
 Sobre mim:
-Sou iniciante na área de tecnologia e estou construindo minha jornada como desenvolvedora.
+Sou formada em Ciências Biológicas pela Universidade de Mogi das Cruzes (UMC) 2018. Possuo especialização em Toxinas de Interesse em Saúde pelo Instituto Butantan (IB) 2020, agora iniciante na área de tecnologia e estou construindo minha jornada como desenvolvedora.
 
 ---
 
