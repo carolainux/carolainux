@@ -9,7 +9,7 @@ O que estou aprendendo:
 - Lógica de programação
 - Banco de Dados
 - Programação WEB
-- POO
+- Programação Orientada a Objetos
 - Git e GitHub  
   
 ---
